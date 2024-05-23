@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab3Comp</string>
+    <string name="home">Home</string>
+    <string name="filmList">Films</string>
+    <string name="swapImage">Swapper</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="invitation">Witaj w aplikacji Film Reviewer!</string>
+    <string name="autor">Autor Wojciech Wejcht</string>
+    <string name="imageswap">Ustawienie obrazu</string>
+    <string name="itemDetails">itemDetails</string>
+    <string name="addItem">addItem</string>
+    <string name="desc_add_fab">Dodaj nowy film</string>
+    <string name="add_item">Dodaj film</string>
+    <string name="editItem">editItem</string>
+    <string name="filmTitle">Tytuł filmu</string>
+    <string name="filmCategory">Kategoria</string>
+    <string name="ratingDesc">Ocena</string>
+    <string name="uriDesc">Uri</string>
+    <string name="filmReview">Recenzja</string>
+    <string name="filmDate">Data</string>
+</resources>
